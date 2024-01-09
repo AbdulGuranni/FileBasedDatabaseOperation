@@ -1,4 +1,0 @@
-StudentID, FirstName, LastName, EmailID
-1, Test, testing, test@gmail.com
-2, Abdul, Guranni, abdul@gmail.com
-3, Iram, Guranni, iram@gmail.com
